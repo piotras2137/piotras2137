@@ -1,6 +1,6 @@
 # 👋 Hi, I’m piotras2137
 - 👀 I’m interested in linux and web-dev 
-- 🌱 I’m currently learning different things, mostly related to linux and web-dev
+- 🌱 I’m currently learning different things, mostly related to linux, web-dev and no AI
 - 📫 How to reach me? i dunno 
 
 <!---
